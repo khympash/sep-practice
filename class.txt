@@ -1,0 +1,29 @@
+three types of blob
+
+block blob : Default storage
+
+
+page blob : Virtual related MACHINE
+
+append blob :Log data
+
+
+
+access tyres
+
+four types
+
+hot : uses regular purpose / cost high /it will be access the data frequently
+
+
+cool : uses rarely / access data un-frequently
+
+cold :
+
+archive : very rarely
+
+
+---------------------------------------------------
+
+v1
+v2-  trigger,git,some of the activites,devops git  
