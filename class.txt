@@ -9,7 +9,9 @@ append blob :Log data
 
 
 
-access tyres
+access tyres four types 
+
+power bi components are different
 
 four types
 
